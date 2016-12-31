@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<div pos="0,75,-0,-0" >
+  <img pos="20,60" width="366" height="200" image="skins\项目介绍大图.png"
+				mode="extrude" framesize="1" tip="DuiVision LOGO" />
+  <text pos="400,50,600,80" crtext="000000" crmark="904000" font="bigbig" title="键盘安全套件" mask="DUI" />
+
+  <text crtext="808080" img-scroll="skin:IDB_SCROLL_V" pos="400,90,-30,160" bk-transparent="5"
+    title="1、键盘操作实时记录，离线获取。
+					2、根据自定义规则对特定GUI进程进行保护。
+					3、提供MFC和WPF的键盘保护SDK，与套件协同达到更深层次的保护" />
+
+</div>
